@@ -1,0 +1,10 @@
+
+/* @font-face {
+    font-family: 'RussianLandCyrillic';
+    src: url("../fonts/RussianLandCyrillic.eot");
+    src: url("../fonts/RussianLandCyrillic.eot?#iefix") format("embedded-opentype"), url("../fonts/RussianLandCyrillic.ttf") format("truetype"), url("../fonts/RussianLandCyrillic.woff") format("woff");
+} */
+ 
+body{
+    margin: 0px;
+}
